@@ -10,10 +10,10 @@ This repository contains the initial stage of a student project to build a clone
 | ----- | ----- | ------ |
 | 0: Authors/README File | [AUTHORS](Patrick && Ibrahim) | Project authors |
 | 1: Pep8 | N/A | All code is pep8 compliant|
-| 2: Unit Testing | [/tests](Emmma && Felix) | All class-defining modules are unittested |
-| 3. Make BaseModel | [/models/base_model.py] (Emma && Felix) | Defines a parent class to be inherited by all model classes|
-| 4. Update BaseModel w/ kwargs | [/models/base_model.py](Emma && Felix) | Add functionality to recreate an instance of a class from a dictionary representation|
-| 5. Create FileStorage class | [/models/engine/file_storage.py](Emma && Felix) [/models/_ _init_ _.py](Emma && Felix) [/models/base_model.py](Emma && Felix) | Defines a class to manage persistent file storage system|
+| 2: Unit Testing | [/tests](patrick and ibrahim) | All class-defining modules are unittested |
+| 3. Make BaseModel | [/models/base_model.py] (patrick and ibrahim) | Defines a parent class to be inherited by all model classes|
+| 4. Update BaseModel w/ kwargs | [/models/base_model.py](patrick and ibrahim) | Add functionality to recreate an instance of a class from a dictionary representation|
+| 5. Create FileStorage class | [/models/engine/file_storage.py](patrick and ibrahim) [/models/_ _init_ _.py](patrick and ibrahim) [/models/base_model.py](patrick and ibrahim) | Defines a class to manage persistent file storage system|
 | 6. Console 0.0.1 | [console.py](E&&F) | Add basic functionality to console program, allowing it to quit, handle empty lines and ^D |
 | 7. Console 0.1 | [console.py] ( E&&F) | Update the console with methods allowing the user to create, destroy, show, and update stored data |
 | 8. Create User class | [console.py](E&&F) [/models/engine/file_storage.py](E&&F) [/models/user.py](E&&F) | Dynamically implements a user class |
